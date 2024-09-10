@@ -8,9 +8,9 @@ namespace MVC_practice.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly IpersonRepository _personRepository;
-        private readonly IBookRepository _bookRepository;
-        public HomeController(ILogger<HomeController> logger , IpersonRepository personrepository, IBookRepository bookRepository)
+        private readonly IGenericRepository<Person> _personRepository;
+        private readonly IGenericRepository<Book> _bookRepository;
+        public HomeController(ILogger<HomeController> logger ,IGenericRepository<Person> personrepository, IGenericRepository<Book> bookRepository )
         {
             _logger = logger;
             _personRepository = personrepository;
