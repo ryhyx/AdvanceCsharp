@@ -1,0 +1,14 @@
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\bin\Debug\net8.0\LevelUpCsharp.exe
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\bin\Debug\net8.0\LevelUpCsharp.deps.json
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\bin\Debug\net8.0\LevelUpCsharp.runtimeconfig.json
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\bin\Debug\net8.0\LevelUpCsharp.dll
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\bin\Debug\net8.0\LevelUpCsharp.pdb
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.AssemblyInfoInputs.cache
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.AssemblyInfo.cs
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.csproj.CoreCompileInputs.cache
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.dll
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\refint\LevelUpCsharp.dll
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.pdb
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\LevelUpCsharp.genruntimeconfig.cache
+C:\Projects\AccountingPractice\LevelUpCsharp\LevelUpCsharp\obj\Debug\net8.0\ref\LevelUpCsharp.dll
